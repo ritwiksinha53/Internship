@@ -1,1 +1,1 @@
-# Internship at Flip Robo Technologies
+# Practicing the cores of data science
