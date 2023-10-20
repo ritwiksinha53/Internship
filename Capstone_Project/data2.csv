@@ -1,0 +1,121 @@
+S_No,Hotel_Name,Free_Wifi,Family_Rooms,Non_smoking_Rooms,Restaurant,Bar,Heating,Lift,Breakfast_Cuisine_1,Breakfast_Cuisine_2,Breakfast_Cuisine_3
+1,Five Jumeirah Village,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Italian,Indian,Indonesian
+2,Premier Inn Dubai International Airport,Yes,Yes,Yes,Yes,Yes,No,Yes,International,International,International
+3,"Holiday Inn Express Dubai Airport, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,No,Yes,International,International,International
+4,TRYP by Wyndham Dubai,Yes,Yes,Yes,Yes,Yes,No,Yes,International,Greek,Spanish
+5,Wyndham Dubai Marina,Yes,Yes,Yes,Yes,Yes,No,Yes,Italian,International,International
+6,Millennium Airport Hotel Dubai,Yes,Yes,Yes,Yes,Yes,No,Yes,Indonesian,Indian,International
+7,Flora Inn Hotel Dubai Airport,Yes,Yes,Yes,Yes,Yes,No,Yes,Indian,Asian,International
+8,Citymax Hotel Bur Dubai,Yes,Yes,Yes,Yes,Yes,No,Yes,International,Indian,International
+9,Hyatt Regency Dubai Creek Heights,Yes,Yes,Yes,Yes,Yes,No,Yes,Mediterranean,Middle Eastern,Mexican
+10,Atana Hotel,Yes,Yes,Yes,Yes,Yes,No,Yes,Asian,Indian,Asian
+11,Britannia International Hotel Canary Wharf,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+12,Zedwell Piccadilly Circus,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,Spanish,International
+13,Park Plaza Westminster Bridge London,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+14,"The Tower Hotel, London",Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+15,Central Park Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+16,The Z Hotel Holborn,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+17,Millennium Gloucester Hotel London,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+18,DoubleTree by Hilton Hotel London - Tower of London,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+19,"Intercontinental London - The O2, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,European,British
+20,The Z Hotel Trafalgar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,Polish,British
+21,Komune Living,Yes,Yes,Yes,Yes,Yes,No,Yes,International,International,International
+22,Seri Pacific Hotel Kuala Lumpur,Yes,Yes,Yes,Yes,Yes,No,Yes,Japanese,International,International
+23,Dorsett Hartamas Kuala Lumpur,Yes,Yes,Yes,Yes,Yes,No,Yes,International,International,International
+24,Hotel Sentral KL @ KL Sentral Station,Yes,Yes,Yes,Yes,Yes,No,Yes,Malaysian,Local,International
+25,Sunway Putra Hotel Kuala Lumpur,Yes,Yes,Yes,Yes,Yes,No,Yes,Asian,International,International
+26,"Traders Hotel, Kuala Lumpur",Yes,Yes,Yes,Yes,Yes,No,Yes,Chinese,Italian,Malaysian
+27,Concorde Hotel Kuala Lumpur,Yes,Yes,Yes,Yes,Yes,No,Yes,International,International,International
+28,"Mandarin Oriental, Kuala Lumpur",Yes,Yes,Yes,Yes,Yes,No,Yes,Asian,International,International
+29,Pullman Kuala Lumpur City Centre Hotel & Residences,Yes,Yes,Yes,Yes,Yes,No,Yes,Asian,International,International
+30,Grand Millennium Kuala Lumpur,Yes,Yes,Yes,Yes,Yes,No,Yes,Malaysian,Asian,International
+31,Britannia Hotel City Centre Manchester,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+32,Sachas Hotel Manchester,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+33,Manchester Piccadilly Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+34,Motel One Manchester-Piccadilly,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+35,The Midland,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+36,Motel One Manchester-Royal Exchange,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+37,"The Edwardian Manchester, A Radisson Collection Hotel",Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+38,ibis budget Manchester Salford Quays,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+39,Mercure Manchester Piccadilly Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+40,Airport Hotel Manchester,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+41,"Holiday Inn Express Gurugram Sector 50, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,No,Yes,International,International,International
+42,Taj City Centre Gurugram,Yes,Yes,Yes,Yes,Yes,No,Yes,American,Cantonese,Chinese
+43,Park Plaza Gurgaon,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Chinese,Indian,Italian
+44,"Holiday Inn Gurugram Sector 90, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,No,Yes,Chinese,French,Indian
+45,"Country Inn & Suites by Radisson, Gurugram Sector 12",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Asian,Asian,Asian
+46,Radisson Gurugram Udyog Vihar,Yes,Yes,Yes,Yes,Yes,No,Yes,Chinese,Indian,Italian
+47,Hyatt Place Gurgaon Udyog Vihar,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Chinese,Indian,Italian
+48,The Leela Ambience Gurugram Hotel & Residences,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Chinese,Indian,Italian
+49,ibis Gurgaon Golf Course Road - An Accor Brand,Yes,Yes,Yes,Yes,Yes,No,Yes,Indian,Mediterranean,International
+50,"Le Meridien Gurgaon, Delhi NCR",Yes,Yes,Yes,Yes,Yes,No,Yes,American,Chinese,Indian
+51,ibis budget Birmingham Centre,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+52,Hampton by Hilton Birmingham Broad Street,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+53,"Holiday Inn Express - Birmingham - City Centre, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+54,Hyatt Regency Birmingham,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+55,"Holiday Inn Birmingham City, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+56,"Radisson Blu Hotel, Birmingham",Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+57,Campanile Hotel - Birmingham,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+58,Clayton Hotel Birmingham,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+59,ibis Birmingham Centre New Street Station Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,British,British,British
+60,Malmaison Birmingham,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+61,Park Inn by Radisson Berlin Alexanderplatz,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Mediterranean,International,International
+62,Schulz Hotel Berlin Wall at the East Side Gallery,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+63,MEININGER Hotel Berlin Hauptbahnhof,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+64,Riu Plaza Berlin,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+65,Hampton by Hilton Berlin City Centre Alexanderplatz,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+66,H2 Hotel Berlin-Alexanderplatz,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+67,IntercityHotel Berlin Hauptbahnhof,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+68,Hotel AMANO Grand Central,Yes,Yes,Yes,Yes,Yes,Yes,Yes,French,French,French
+69,TITANIC Chaussee Berlin,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Italian,American,International
+70,NH Collection Berlin Mitte am Checkpoint Charlie,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+71,Shangri-La Sydney,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+72,ibis budget Sydney Airport,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+73,The Grace Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+74,"Meriton Suites Kent Street, Sydney",Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+75,Hyatt Regency Sydney,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+76,Travelodge Hotel Sydney Airport,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+77,Rydges Sydney Airport Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+78,Citadines Connect Sydney Airport,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+79,Great Southern Hotel Sydney,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+80,Four Seasons Hotel Sydney,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Australian,Australian,Australian
+81,The Victoria Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Australian,Australian,Australian
+82,Crown Promenade Melbourne,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+83,Crown Metropol Melbourne,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+84,Atlantis Hotel Melbourne,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+85,Great Southern Hotel Melbourne,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Australian,Australian,Australian
+86,Hotel Grand Chancellor Melbourne,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Australian,Australian,Australian
+87,YEHS Hotel Melbourne CBD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+88,Travelodge Hotel Melbourne Docklands,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+89,Causeway 353 Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Thai,Thai,International
+90,ibis Styles Kingsgate Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+91,HotelF1 Paris Saint Ouen Marché Aux Puces,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+92,hotelF1 Paris Porte de Châtillon,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+93,B&B HOTEL Paris 17 Batignolles,Yes,Yes,Yes,Yes,Yes,Yes,Yes,French,International,International
+94,Pullman Paris Tour Eiffel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,American,French,International
+95,Ibis Paris Tour Eiffel Cambronne 15ème,Yes,Yes,Yes,Yes,Yes,Yes,Yes,French,French,French
+96,citizenM Paris Gare de Lyon,Yes,Yes,Yes,Yes,Yes,Yes,Yes,French,French,French
+97,ibis Budget Paris La Villette 19ème,Yes,Yes,Yes,Yes,Yes,Yes,Yes,French,French,French
+98,"Holiday Inn Paris Gare de l'Est, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,Yes,Yes,French,International,International
+99,B&B HOTEL Paris Porte des Lilas,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+100,MEININGER Hotel Paris Porte de Vincennes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+101,Hotel Sunroute Plaza Shinjuku,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Italian,Italian,Italian
+102,The Royal Park Hotel Tokyo Haneda Airport Terminal 3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Japanese,Japanese,Japanese
+103,Shinagawa Prince Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,European,European,European
+104,Shinjuku Prince Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Japanese,Japanese,Japanese
+105,JR Kyushu Hotel Blossom Shinjuku,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Japanese,Local,Japanese
+106,the square hotel GINZA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+107,Mitsui Garden Hotel Roppongi Tokyo Premier,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Italian,Italian,Italian
+108,Mitsui Garden Hotel Jingugaien Tokyo Premier,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Italian,Italian,Italian
+109,Ours Inn Hankyu,Yes,Yes,Yes,Yes,Yes,Yes,Yes,American,American,Japanese
+110,karaksa hotel TOKYO STATION,Yes,Yes,Yes,Yes,Yes,Yes,Yes,American,American,Japanese
+111,One King West Hotel and Residence,Yes,Yes,Yes,Yes,Yes,Yes,Yes,American,American,American
+112,Chelsea Hotel Toronto,Yes,Yes,Yes,Yes,Yes,Yes,Yes,American,American,American
+113,DoubleTree by Hilton Toronto Downtown,Yes,Yes,Yes,Yes,Yes,Yes,Yes,American,American,American
+114,Town Inn Suites Hotel,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+115,"Holiday Inn Toronto Downtown Centre, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+116,Woodbine Hotel & Suites,Yes,Yes,Yes,Yes,Yes,Yes,Yes,NA,NA,NA
+117,Pan Pacific Toronto,Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+118,"Doubletree by Hilton Toronto Airport, ON",Yes,Yes,Yes,Yes,Yes,Yes,Yes,American,American,American
+119,"Holiday Inn Toronto International Airport, an IHG Hotel",Yes,Yes,Yes,Yes,Yes,Yes,Yes,International,International,International
+120,Best Western Plus Toronto North York Hotel & Suites,Yes,Yes,Yes,Yes,Yes,Yes,Yes,American,American,American
