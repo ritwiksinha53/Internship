@@ -1,0 +1,121 @@
+S_No,Hotel_Name,Room_Type,Single_Bed,Double_Bed,Prices_in_INR
+1,Five Jumeirah Village,King | Queen | Deluxe | Suite,Yes,Yes,11180
+2,Premier Inn Dubai International Airport,King | Queen | Deluxe | Suite,Yes,Yes,5815
+3,"Holiday Inn Express Dubai Airport, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,6725
+4,TRYP by Wyndham Dubai,King | Queen | Deluxe | Suite,Yes,Yes,11992
+5,Wyndham Dubai Marina,King | Queen | Deluxe | Suite,Yes,Yes,17911
+6,Millennium Airport Hotel Dubai,King | Queen | Deluxe | Suite,Yes,Yes,7685
+7,Flora Inn Hotel Dubai Airport,King | Queen | Deluxe | Suite,Yes,Yes,10645
+8,Citymax Hotel Bur Dubai,King | Queen | Deluxe | Suite,Yes,Yes,4443
+9,Hyatt Regency Dubai Creek Heights,King | Queen | Deluxe | Suite,Yes,Yes,15075
+10,Atana Hotel,King | Queen | Deluxe | Suite,Yes,Yes,8614
+11,Britannia International Hotel Canary Wharf,King | Queen | Deluxe | Suite,Yes,Yes,5984
+12,Zedwell Piccadilly Circus,King | Queen | Deluxe | Suite,Yes,Yes,10041
+13,Park Plaza Westminster Bridge London,King | Queen | Deluxe | Suite,Yes,Yes,23733
+14,"The Tower Hotel, London",King | Queen | Deluxe | Suite,Yes,Yes,13692
+15,Central Park Hotel,King | Queen | Deluxe | Suite,Yes,Yes,9635
+16,The Z Hotel Holborn,King | Queen | Deluxe | Suite,Yes,Yes,9635
+17,Millennium Gloucester Hotel London,King | Queen | Deluxe | Suite,Yes,Yes,10649
+18,DoubleTree by Hilton Hotel London - Tower of London,King | Queen | Deluxe | Suite,Yes,Yes,13395
+19,"Intercontinental London - The O2, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,25254
+20,The Z Hotel Trafalgar,King | Queen | Deluxe | Suite,Yes,Yes,10142
+21,Komune Living,King | Queen | Deluxe | Suite,Yes,Yes,2654
+22,Seri Pacific Hotel Kuala Lumpur,King | Queen | Deluxe | Suite,Yes,Yes,4325
+23,Dorsett Hartamas Kuala Lumpur,King | Queen | Deluxe | Suite,Yes,Yes,3175
+24,Hotel Sentral KL @ KL Sentral Station,King | Queen | Deluxe | Suite,Yes,Yes,1737
+25,Sunway Putra Hotel Kuala Lumpur,King | Queen | Deluxe | Suite,Yes,Yes,4553
+26,"Traders Hotel, Kuala Lumpur",King | Queen | Deluxe | Suite,Yes,Yes,6329
+27,Concorde Hotel Kuala Lumpur,King | Queen | Deluxe | Suite,Yes,Yes,5142
+28,"Mandarin Oriental, Kuala Lumpur",King | Queen | Deluxe | Suite,Yes,Yes,12702
+29,Pullman Kuala Lumpur City Centre Hotel & Residences,King | Queen | Deluxe | Suite,Yes,Yes,7905
+30,Grand Millennium Kuala Lumpur,King | Queen | Deluxe | Suite,Yes,Yes,5556
+31,Britannia Hotel City Centre Manchester,King | Queen | Deluxe | Suite,Yes,Yes,3854
+32,Sachas Hotel Manchester,King | Queen | Deluxe | Suite,Yes,Yes,3854
+33,Manchester Piccadilly Hotel,King | Queen | Deluxe | Suite,Yes,Yes,8114
+34,Motel One Manchester-Piccadilly,King | Queen | Deluxe | Suite,Yes,Yes,6998
+35,The Midland,King | Queen | Deluxe | Suite,Yes,Yes,11410
+36,Motel One Manchester-Royal Exchange,King | Queen | Deluxe | Suite,Yes,Yes,7505
+37,"The Edwardian Manchester, A Radisson Collection Hotel",King | Queen | Deluxe | Suite,Yes,Yes,14514
+38,ibis budget Manchester Salford Quays,King | Queen | Deluxe | Suite,Yes,Yes,3481
+39,Mercure Manchester Piccadilly Hotel,King | Queen | Deluxe | Suite,Yes,Yes,6816
+40,Airport Hotel Manchester,King | Queen | Deluxe | Suite,Yes,Yes,3448
+41,"Holiday Inn Express Gurugram Sector 50, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,4999
+42,Taj City Centre Gurugram,King | Queen | Deluxe | Suite,Yes,Yes,10000
+43,Park Plaza Gurgaon,King | Queen | Deluxe | Suite,Yes,Yes,10200
+44,"Holiday Inn Gurugram Sector 90, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,8999
+45,"Country Inn & Suites by Radisson, Gurugram Sector 12",King | Queen | Deluxe | Suite,Yes,Yes,5500
+46,Radisson Gurugram Udyog Vihar,King | Queen | Deluxe | Suite,Yes,Yes,7650
+47,Hyatt Place Gurgaon Udyog Vihar,King | Queen | Deluxe | Suite,Yes,Yes,8888
+48,The Leela Ambience Gurugram Hotel & Residences,King | Queen | Deluxe | Suite,Yes,Yes,9499
+49,ibis Gurgaon Golf Course Road - An Accor Brand,King | Queen | Deluxe | Suite,Yes,Yes,12000
+50,"Le Meridien Gurgaon, Delhi NCR",King | Queen | Deluxe | Suite,Yes,Yes,11500
+51,ibis budget Birmingham Centre,King | Queen | Deluxe | Suite,Yes,Yes,3701
+52,Hampton by Hilton Birmingham Broad Street,King | Queen | Deluxe | Suite,Yes,Yes,6374
+53,"Holiday Inn Express - Birmingham - City Centre, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,7561
+54,Hyatt Regency Birmingham,King | Queen | Deluxe | Suite,Yes,Yes,9950
+55,"Holiday Inn Birmingham City, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,8012
+56,"Radisson Blu Hotel, Birmingham",King | Queen | Deluxe | Suite,Yes,Yes,9027
+57,Campanile Hotel - Birmingham,King | Queen | Deluxe | Suite,Yes,Yes,5274
+58,Clayton Hotel Birmingham,King | Queen | Deluxe | Suite,Yes,Yes,9128
+59,ibis Birmingham Centre New Street Station Hotel,King | Queen | Deluxe | Suite,Yes,Yes,4665
+60,Malmaison Birmingham,King | Queen | Deluxe | Suite,Yes,Yes,9027
+61,Park Inn by Radisson Berlin Alexanderplatz,King | Queen | Deluxe | Suite,Yes,Yes,8243
+62,Schulz Hotel Berlin Wall at the East Side Gallery,King | Queen | Deluxe | Suite,Yes,Yes,5136
+63,MEININGER Hotel Berlin Hauptbahnhof,King | Queen | Deluxe | Suite,Yes,Yes,1356
+64,Riu Plaza Berlin,King | Queen | Deluxe | Suite,Yes,Yes,8718
+65,Hampton by Hilton Berlin City Centre Alexanderplatz,King | Queen | Deluxe | Suite,Yes,Yes,9257
+66,H2 Hotel Berlin-Alexanderplatz,King | Queen | Deluxe | Suite,Yes,Yes,7309
+67,IntercityHotel Berlin Hauptbahnhof,King | Queen | Deluxe | Suite,Yes,Yes,8567
+68,Hotel AMANO Grand Central,King | Queen | Deluxe | Suite,Yes,Yes,6490
+69,TITANIC Chaussee Berlin,King | Queen | Deluxe | Suite,Yes,Yes,9088
+70,NH Collection Berlin Mitte am Checkpoint Charlie,King | Queen | Deluxe | Suite,Yes,Yes,9687
+71,Shangri-La Sydney,King | Queen | Deluxe | Suite,Yes,Yes,15633
+72,ibis budget Sydney Airport,King | Queen | Deluxe | Suite,Yes,Yes,6624
+73,The Grace Hotel,King | Queen | Deluxe | Suite,Yes,Yes,13460
+74,"Meriton Suites Kent Street, Sydney",King | Queen | Deluxe | Suite,Yes,Yes,15103
+75,Hyatt Regency Sydney,King | Queen | Deluxe | Suite,Yes,Yes,14577
+76,Travelodge Hotel Sydney Airport,King | Queen | Deluxe | Suite,Yes,Yes,9491
+77,Rydges Sydney Airport Hotel,King | Queen | Deluxe | Suite,Yes,Yes,13195
+78,Citadines Connect Sydney Airport,King | Queen | Deluxe | Suite,Yes,Yes,11817
+79,Great Southern Hotel Sydney,King | Queen | Deluxe | Suite,Yes,Yes,7366
+80,Four Seasons Hotel Sydney,King | Queen | Deluxe | Suite,Yes,Yes,19819
+81,The Victoria Hotel,King | Queen | Deluxe | Suite,Yes,Yes,6465
+82,Crown Promenade Melbourne,King | Queen | Deluxe | Suite,Yes,Yes,11076
+83,Crown Metropol Melbourne,King | Queen | Deluxe | Suite,Yes,Yes,11606
+84,Atlantis Hotel Melbourne,King | Queen | Deluxe | Suite,Yes,Yes,7400
+85,Great Southern Hotel Melbourne,King | Queen | Deluxe | Suite,Yes,Yes,5193
+86,Hotel Grand Chancellor Melbourne,King | Queen | Deluxe | Suite,Yes,Yes,8426
+87,YEHS Hotel Melbourne CBD,King | Queen | Deluxe | Suite,Yes,Yes,12334
+88,Travelodge Hotel Melbourne Docklands,King | Queen | Deluxe | Suite,Yes,Yes,8063
+89,Causeway 353 Hotel,King | Queen | Deluxe | Suite,Yes,Yes,10016
+90,ibis Styles Kingsgate Hotel,King | Queen | Deluxe | Suite,Yes,Yes,5140
+91,HotelF1 Paris Saint Ouen Marché Aux Puces,King | Queen | Deluxe | Suite,Yes,Yes,3606
+92,hotelF1 Paris Porte de Châtillon,King | Queen | Deluxe | Suite,Yes,Yes,3958
+93,B&B HOTEL Paris 17 Batignolles,King | Queen | Deluxe | Suite,Yes,Yes,8718
+94,Pullman Paris Tour Eiffel,King | Queen | Deluxe | Suite,Yes,Yes,31615
+95,Ibis Paris Tour Eiffel Cambronne 15ème,King | Queen | Deluxe | Suite,Yes,Yes,8322
+96,citizenM Paris Gare de Lyon,King | Queen | Deluxe | Suite,Yes,Yes,11360
+97,ibis Budget Paris La Villette 19ème,King | Queen | Deluxe | Suite,Yes,Yes,6587
+98,"Holiday Inn Paris Gare de l'Est, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,8639
+99,B&B HOTEL Paris Porte des Lilas,King | Queen | Deluxe | Suite,Yes,Yes,6076
+100,MEININGER Hotel Paris Porte de Vincennes,King | Queen | Deluxe | Suite,Yes,Yes,5460
+101,Hotel Sunroute Plaza Shinjuku,King | Queen | Deluxe | Suite,Yes,Yes,16585
+102,The Royal Park Hotel Tokyo Haneda Airport Terminal 3,King | Queen | Deluxe | Suite,Yes,Yes,11401
+103,Shinagawa Prince Hotel,King | Queen | Deluxe | Suite,Yes,Yes,15195
+104,Shinjuku Prince Hotel,King | Queen | Deluxe | Suite,Yes,Yes,18745
+105,JR Kyushu Hotel Blossom Shinjuku,King | Queen | Deluxe | Suite,Yes,Yes,16907
+106,the square hotel GINZA,King | Queen | Deluxe | Suite,Yes,Yes,13765
+107,Mitsui Garden Hotel Roppongi Tokyo Premier,King | Queen | Deluxe | Suite,Yes,Yes,23292
+108,Mitsui Garden Hotel Jingugaien Tokyo Premier,King | Queen | Deluxe | Suite,Yes,Yes,19688
+109,Ours Inn Hankyu,King | Queen | Deluxe | Suite,Yes,Yes,4338
+110,karaksa hotel TOKYO STATION,King | Queen | Deluxe | Suite,Yes,Yes,12236
+111,One King West Hotel and Residence,King | Queen | Deluxe | Suite,Yes,Yes,16427
+112,Chelsea Hotel Toronto,King | Queen | Deluxe | Suite,Yes,Yes,12194
+113,DoubleTree by Hilton Toronto Downtown,King | Queen | Deluxe | Suite,Yes,Yes,11882
+114,Town Inn Suites Hotel,King | Queen | Deluxe | Suite,Yes,Yes,16526
+115,"Holiday Inn Toronto Downtown Centre, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,12892
+116,Woodbine Hotel & Suites,King | Queen | Deluxe | Suite,Yes,Yes,7936
+117,Pan Pacific Toronto,King | Queen | Deluxe | Suite,Yes,Yes,15017
+118,"Doubletree by Hilton Toronto Airport, ON",King | Queen | Deluxe | Suite,Yes,Yes,14288
+119,"Holiday Inn Toronto International Airport, an IHG Hotel",King | Queen | Deluxe | Suite,Yes,Yes,12087
+120,Best Western Plus Toronto North York Hotel & Suites,King | Queen | Deluxe | Suite,Yes,Yes,10014
