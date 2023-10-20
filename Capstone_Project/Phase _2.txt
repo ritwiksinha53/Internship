@@ -1,0 +1,117 @@
+Table – 1
+
+Solution - 1
+
+SELECT *
+FROM data1
+WHERE Location = 'Sydney' AND Review_Score > 5.0;
+
+Solution - 2
+
+SELECT Location, MAX(Number_of_Reviews) AS Max_Reviews
+FROM data1;
+
+Solution - 3
+
+SELECT *
+FROM data1
+ORDER BY User_Ratings DESC;
+
+Solution - 4
+
+SELECT *
+FROM data1
+WHERE Star_Ratings >= 4
+ORDER BY Review_Score DESC;
+
+Solution - 5
+SELECT Location, COUNT(*) AS Hotel_Count
+FROM data1
+GROUP BY Location;
+
+
+######################################################################################################
+
+
+Table – 2
+
+Solution - 1
+
+SELECT Hotel_Name
+FROM data2
+WHERE Restaruant = 'Yes' AND Bar = 'Yes';
+
+Solution - 2
+
+SELECT Hotel_Name
+FROM data2
+WHERE Free_Wifi = 'Yes' AND Family_Rooms = 'Yes';
+
+Solution - 3
+
+SELECT Breakfast_Cuisine, COUNT(*) as Cuisine_Count
+FROM (
+    SELECT Breakfast_Cuisine_1 as Breakfast_Cuisine FROM data2
+    UNION ALL
+    SELECT Breakfast_Cuisine_2 as Breakfast_Cuisine FROM data2
+    UNION ALL
+    SELECT Breakfast_Cuisine_3 as Breakfast_Cuisine FROM data2
+) AS AllCuisines
+GROUP BY Breakfast_Cuisine;
+
+Solution - 4
+
+SELECT Hotel_Name
+FROM data2
+WHERE 'International' IN (Breakfast_Cuisine_1, Breakfast_Cuisine_2, Breakfast_Cuisine_3);
+
+Solution - 5
+
+SELECT Hotel_Name
+FROM data2
+WHERE Heating = 'Yes' AND Lift = 'Yes' AND Bar = 'Yes';
+
+
+######################################################################################################
+
+
+Table – 3
+
+Solution - 1
+
+SELECT *
+FROM data3
+WHERE Double_Bed = 'Yes'
+ORDER BY Prices DESC;
+
+Solution - 2
+
+SELECT Room_Type, AVG(Prices) as Average_Price
+FROM data3
+GROUP BY Room_Type;
+
+
+######################################################################################################
+
+
+Combined Tables
+
+Solution - 1
+
+SELECT d1.S_No, d1.Hotel_Name, d1.Number_of_Reviews, d1.User_Ratings, d1.Star_Ratings, d1.Review_Score, d1.Location
+FROM data1 d1
+JOIN data2 d2 ON d1.Hotel_Name = d2.Hotel_Name
+WHERE d1.Review_Score > 5.0 AND d2.Free_Wifi = 'Yes';
+
+Solution - 2
+
+SELECT d1.S_No, d1.Hotel_Name, d1.Number_of_Reviews, d1.User_Ratings, d1.Star_Ratings, d1.Review_Score, d1.Location
+FROM data1 d1
+JOIN data2 d2 ON d1.Hotel_Name = d2.Hotel_Name
+WHERE d2.Family_Rooms = 'Yes' AND d2.Non_smoking_Rooms = 'Yes';
+
+Solution - 3
+
+SELECT Room_Type, AVG(Prices) as Average_Price
+FROM data3
+GROUP BY Room_Type;
